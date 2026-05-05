@@ -26,7 +26,7 @@ body {
 
 .background-om {
     top: -2%;
-    left: -2%;
+    left: -4%;
     width: 40vw;
     height: 40vw;
     background: url('assets/om.png') no-repeat center;
@@ -35,7 +35,7 @@ body {
 }
 
 .background-wheel {
-    bottom: -12%;
+    bottom: -22%;
     right: -12%;
     width: 55vw;
     height: 55vw;
