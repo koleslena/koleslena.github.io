@@ -14,7 +14,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 /* Элементы фона */
@@ -22,7 +22,7 @@ body {
     position: fixed;
     pointer-events: none;
     z-index: 0;
-    opacity: 0.12; /* Регулируй прозрачность здесь */
+    opacity: 0.2;
 }
 
 .background-om {
